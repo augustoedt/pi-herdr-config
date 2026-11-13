@@ -1,0 +1,6 @@
+{
+  "maxConcurrency": 14,
+  "modelTiers": {
+    "fast": "deepseek/deepseek-flash"
+  }
+}

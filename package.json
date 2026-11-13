@@ -1,0 +1,11 @@
+{
+  "name": "pi-herdr-config",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Personal Pi configuration package and Herdr integration notes",
+  "pi": {
+    "extensions": ["./extensions/whisper-stt-autostart.js"],
+    "prompts": ["./prompts/*.md"]
+  }
+}

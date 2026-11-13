@@ -1,0 +1,10 @@
+{
+  "provider": {
+    "type": "local",
+    "endpoint": "http://127.0.0.1:10301/v1/audio/transcriptions",
+    "model": "large-v3",
+    "language": "auto",
+    "timeoutSeconds": 600,
+    "apiKeyEnv": ""
+  }
+}
